@@ -1,0 +1,7 @@
+{
+  car = objects
+ int = 10 
+ #include<stido.h>
+  main()
+ { 
+     float avgt,avgtwt;
